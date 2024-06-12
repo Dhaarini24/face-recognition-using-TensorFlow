@@ -1,5 +1,4 @@
 
-ChatGPT
 Here's a detailed README file for your face recognition project, excluding the code:
 
 Face Recognition using TensorFlow and LFW Dataset
